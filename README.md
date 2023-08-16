@@ -1,5 +1,7 @@
 # Systèmes de Recommandation
 
+## Description
+
 Ce projet a été réalisé dans le cadre du TIPE pour les concours d'admission aux Grandes Ecoles d'ingénieurs.
 
 Le document de présentation fourni présente les enjeux, l'historique et les limites des systèmes de recommandation, ainsi que des démonstrations et des formules mathématiques.
@@ -10,4 +12,11 @@ Les données utilisées pour les tests proviennent du site https://grouplens.org
 
 N'hésitez pas à hybrider ces algorithmes pour obtenir des résultats plus intéressants lors de vos prédictions !
 
-Je prévois d'ajouter le code pour le système qui utilise la décomposition SVD ultérieurement, car je vais l'optimiser.
+## Documentation
+
+La documentation est disponible dans [cette présentation](DELOIRE_Alexandre_TIPE_Systèmes_de_recommandation.pdf)
+
+## Licence
+<div align=center>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Licence Creative Commons Attribution - Pas d&#39;Utilisation Commerciale - Pas de Modification 4.0 International</a>.
+</div>
